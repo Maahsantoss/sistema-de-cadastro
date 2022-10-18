@@ -1,0 +1,6 @@
+<h1> Sistema de Cadastro de Jogo </h1>
+
+> Status do projeto: em andamento
+
+Para rodar esse projeto na sua máquina, por favor digite:
+
